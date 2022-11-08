@@ -100,12 +100,20 @@ _BONUS_:
 	- CSS
 	- JavaScript
 
+_BONUS_:
+- Recherche la difference entre margin et padding, ainsi que le `box model` (modele de boites de CSS). Pour cela, va sur [MDN](https://developer.mozilla.org/fr). 
+
+Cela te paraitre un peu déroutant, ce site pour la premiere fois car c'est de la documentation. 
+**C'est une compétence vraiment importante de savoir lire de la documentation.** Donc n'hésites pas naviguer autout de MDN!
+
 
 Regarde [ce site egalement](https://alexsoyes.com/apprendre-developpement-web/), mais que jusqu'à l'étape 6. Le reste, c'est pour plus tard. Il a l'air d'avoir des bonnes références pour chaque étape.
 
 **Reference** :
 
 Regarde sur ce site [MDN](https://developer.mozilla.org/fr/docs/Web) et ajoutes ce site à tes favoris, c'est la bible du développement web.
+
+
 
 
 
